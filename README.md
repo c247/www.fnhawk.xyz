@@ -1,4 +1,4 @@
-# www.fnreport.xyz
+# www.fnhawk.xyz
 Fortnite Rankings Website
 
 Created Fortnite Statistic Tracking website utilizing Fortnite Trackersw API.

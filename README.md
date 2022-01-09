@@ -3,7 +3,7 @@ Fortnite Rankings Website
 
 Created Fortnite Statistic Tracking website built with Javascript, HTML/CSS and Bootstrap utilizing Fortnite Trackers API.
 
-Why:
+###Why:
 Competitive Fortnite players always struggle to find elite teammates to play with for cash prize tournaments. My website helps address this issue by easily showing a players percentile and cash earning by entering in their username, region and platform (PC, Console). This allows you to verify a players credentials at a glance!
 
 ## Note

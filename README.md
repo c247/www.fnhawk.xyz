@@ -1,7 +1,7 @@
 # www.fnhawk.xyz
 Fortnite Rankings Website
 
-Created Fortnite Statistic Tracking website utilizing Fortnite Trackersw API.
+Created Fortnite Statistic Tracking website built with Javascript, HTML/CSS and Bootstrap utilizing Fortnite Trackers API.
 
 
 ## Note
